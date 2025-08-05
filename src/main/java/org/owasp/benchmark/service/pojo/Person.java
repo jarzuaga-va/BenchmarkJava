@@ -28,6 +28,7 @@ public class Person {
     private String address;
     private String firstName;
     private String lastName;
+    private String middleName;
 
     public Person() {}
 
